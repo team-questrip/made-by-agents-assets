@@ -1,0 +1,7 @@
+file '/Users/harok/.openclaw/workspace/made-by-agents-assets/illustrations/01-ai-agent-coding.png'
+duration 5.7
+file '/Users/harok/.openclaw/workspace/made-by-agents-assets/illustrations/03-agent-team-meeting.png'
+duration 5.7
+file '/Users/harok/.openclaw/workspace/made-by-agents-assets/illustrations/02-agent-coffee-break.png'
+duration 5.9
+file '/Users/harok/.openclaw/workspace/made-by-agents-assets/illustrations/02-agent-coffee-break.png'
